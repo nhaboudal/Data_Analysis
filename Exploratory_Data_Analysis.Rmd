@@ -1,10 +1,14 @@
 ---
-title: "Final"
+title: "Explorartory Data Analysis for Heart Faliure Clinical Records "
 output:
   pdf_document: default
   html_document: default
   word_document: default
 date: "2023-11-29"
+
+Dataset :
+Heart failure clinical records. (2020).
+UCI Machine Learning Repository. https://doi.org/10.24432/C5Z89R.
 ---
 
 ## Contents
